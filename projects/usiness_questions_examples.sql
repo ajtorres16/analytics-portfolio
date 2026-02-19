@@ -1,4 +1,3 @@
-
 1. select
     'Q' + cast(datepart(quarter, [Order Date]) as varchar(1))+' '+cast(datepart(year,[Order Date]) as Varchar(4))as Quarter_year, sum(Sales) as total_sales
 from Sales.train_v5
