@@ -18,6 +18,7 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 ### **Project Management**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 ---
 
@@ -55,4 +56,5 @@ As part of the **Escape Enterprise Revenue Study**, I generated this heatmap to 
 
 ## 📬 Contact & Connect
 * **LinkedIn:** [www.linkedin.com/in/ajtorres2020]
-* **Location:** Dade City, FL (Open to Remote)
+* **Email** [ajtorres16@gmail.com]
+* **Location:** Tampa, FL (Open to Remote)
