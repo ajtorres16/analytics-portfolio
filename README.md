@@ -11,6 +11,8 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 * **Goal:** Automate risk tiering for high-volume portfolios.
 * **Tools:** SQL (CTEs, Window Functions).
 * **Impact:** Identified "High Risk" variance from regional averages for faster mitigation.
+* ![Risk Heatmap](risk_heatmap.png).
+
 
 ### 2. [Retail Price Elasticity Model](./projects/retail_optimization.py)
 * **Goal:** Analyze how price changes impact unit volume at Escape Enterprise.
