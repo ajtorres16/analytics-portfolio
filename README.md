@@ -1,4 +1,4 @@
-# Alexander Torres | Senior Systems Business Analyst 
+# Alexander Torres | Senior Business Systems Strategist
 
 ### 📊 Portfolio Overview
 Welcome to my technical portfolio. I specialize in bridging the gap between complex data systems and executive strategy, with a focus on Finance, Aviation Tax, and Retail Operations.
