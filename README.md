@@ -15,8 +15,7 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 ### 1. [Financial Risk & Portfolio Health](./projects/risk_analysis.sql)
 * **Goal:** Automate risk tiering for high-volume portfolios.
 * **Tools:** SQL (CTEs, Window Functions).
-* **Impact:** Identified "High Risk" variance from regional averages for faster mitigation.
-* ![Risk Heatmap](./projects/risk_heatmap.png).
+* **Impact:** Identified "High Risk" variance from regional averages for faster mitigation
 
 
 ### 2. [Retail Price Elasticity Model](./projects/retail_optimization.py)
@@ -33,6 +32,13 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 * **Goal:** Demostrate skills used in everyday SQL
 * **Tools:** SQL, (CTEs, Window Functions).
 * **Result:** Streamlined business purpose solutions for shareholders.
+
+### 📈 Project Highlight: Price Elasticity Heatmap
+As part of the **Escape Enterprise Revenue Study**, I generated this heatmap to visualize regional price sensitivity.
+
+![Price Elasticity Heatmap](/projects/risk_heatmap.png)
+
+* **Analysis:** The darker red cells indicate regions where price hikes led to a significant drop in volume, identifying "ceiling" prices for core menu items.
 
 ---
 
