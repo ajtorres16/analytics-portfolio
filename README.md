@@ -60,6 +60,6 @@ As part of the **Escape Enterprise Revenue Study**, I generated this heatmap to 
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** [www.linkedin.com/in/ajtorres2020]
+* **LinkedIn:** [www.linkedin.com/in/ajtorres16]
 * **Email** [ajtorres16@gmail.com]
 * **Location:** Tampa, FL (Open to Remote)
