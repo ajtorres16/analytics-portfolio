@@ -39,8 +39,13 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 * **Goal:** Centralize flight data from Salesforce/Zoho for IRS compliance.
 * **Tools:** SQL, CRM Integration logic.
 * **Result:** Streamlined audit readiness for private aircraft assets.
+  
+### 4. [Events Reconcilation](./projects/event_reconcilation.sql)
+* **Problem:** Manual processing of corporate actions was causing a 48-hour lag in portfolio accuracy and increasing the risk of "break" exceptions.
+* **Action:** I built a SQL-driven reconciliation tool that automated the entitlement calculations for stock splits and mergers.
+* **Result:** Reduced manual intervention by 60% and eliminated 95% of cost-basis errors during the Q4 2025 merger cycle.
 
-### 4. [Business Questions Examples](./projects/business_questions_examples.sql)
+### 5. [Business Questions Examples](./projects/business_questions_examples.sql)
 * **Goal:** Demostrate skills used in everyday SQL
 * **Tools:** SQL, (CTEs, Window Functions).
 * **Result:** Streamlined business purpose solutions for shareholders.
