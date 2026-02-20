@@ -46,7 +46,7 @@ Welcome to my technical portfolio. I specialize in bridging the gap between comp
 * **Result:** Reduced manual intervention by 60% and eliminated 95% of cost-basis errors during the Q4 2025 merger cycle.
 
 ### 5. [Business Questions Examples](./projects/business_questions_examples.sql)
-* **Goal:** Demostrate skills used in everyday SQL
+* **Goal:** Demonstrate skills used in everyday SQL
 * **Tools:** SQL, (CTEs, Window Functions).
 * **Result:** Streamlined business purpose solutions for shareholders.
 
